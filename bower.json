@@ -1,0 +1,8 @@
+{
+  "name": "Max Brockman",
+  "dependencies": {
+    "color-scale": "*",
+    "type-rhythm-scale": "*",
+    "rwd-toolkit": "*"
+  }
+}
