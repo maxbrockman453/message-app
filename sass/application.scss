@@ -1,3 +1,26 @@
 @import "bourbon";
 @import "type-rhythm-scale";
 @import "rwd-toolkit";
+
+/////// App Config - this is where most of your magic will happen
+// *----------------------------------------
+@import "config";
+
+/////// Standard CSS reset stuff here
+// *-------------------------------------------------
+@import "reset";
+
+/////// Layouts
+@import "layouts/manifest";
+
+/////// Modules
+@import "modules/manifest";
+
+/////// Base
+@import "typography/manifest";
+
+/////// Forms
+@import "forms";
+
+////// Buttons
+@import "buttons";
